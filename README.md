@@ -1,6 +1,6 @@
 # 🧩 Tarefa - Curso Descodificadas (Modalidade Front-End)
 
-**Grid** é uma estrutura geométrica de eixos (horizontais e verticais) que funciona como um suporte para **posicionar e alinhar componentes gráficos**, como textos, imagens e outros elementos em uma página web.
+Tarefa pertencente ao curso Descodificadas (modalidade Frontend) baseada na composição de imagens utilizando **Grid** , que é uma é uma estrutura geométrica de eixos (horizontais e verticais) que funciona como um suporte para **posicionar e alinhar componentes gráficos**, como textos, imagens e outros elementos em uma página web.
 
 ---
 
@@ -8,12 +8,11 @@
 
 - **IDE:** VS Code  
 - **Controle de Versão:** Git
-
 ---
 
-# 🧩 Task - Descodificadas Course (Front-End Track)
+# 🧩 Assignment - Descodificadas Course (Front-End Track)
 
-**Grid** is a geometric structure of axes (horizontal and vertical) that serves as a framework to **position and align graphic components**, such as text, images, and other elements on a web page.
+Assignment from the **Descodificadas** course (Front-End track), based on the composition of images using **Grid**, which is a geometric structure of axes (horizontal and vertical) that serves as a framework to **position and align graphic components**, such as text, images, and other elements on a web page.
 
 ---
 
@@ -21,3 +20,4 @@
 
 - **IDE:** VS Code  
 - **Version Control:** Git
+
