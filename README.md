@@ -1,6 +1,6 @@
 # 🧩 Tarefa - Curso Descodificadas (Modalidade Front-End)
 
-Tarefa pertencente ao curso Descodificadas (modalidade Frontend) baseada na composição de imagens utilizando **Grid** , que é uma é uma estrutura geométrica de eixos (horizontais e verticais) que funciona como um suporte para **posicionar e alinhar componentes gráficos**, como textos, imagens e outros elementos em uma página web.
+Tarefa pertencente ao curso Descodificadas (modalidade Frontend) baseada na composição de imagens utilizando **Grid** , que é uma estrutura geométrica de eixos (horizontais e verticais) que funciona como um suporte para **posicionar e alinhar componentes gráficos**, como textos, imagens e outros elementos em uma página web.
 
 ---
 
